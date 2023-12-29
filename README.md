@@ -1,4 +1,4 @@
-Learning Device Drivers Repository
+
 Welcome to my Learning Device Drivers repository! Here, I've included all the device drivers that I've implemented as part of my journey into embedded Linux and kernel development. It's been an exciting learning experience, and I'm thrilled to share my progress with you.
 
 Included Device Drivers
